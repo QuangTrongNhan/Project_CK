@@ -1,7 +1,7 @@
 .frame {
     height: 310px;
     width: 100%;
-    background-image: url('family.jpg');
+    background-image: url('../src/assets/img/iStock_000080173561_Medium-1024x682\ \(1\).jpg');
     background-repeat: no-repeat;
     background-size: 100% 300px;
     filter: brightness(60%);
@@ -21,7 +21,7 @@
 .picture {
     height: 500px;
     width: 100%;
-    background-image: url('istock_kids_stem.jpg');
+    background-image: url('../src/assets/img/istock_kids_stem\ \(1\).jpg');
     background-repeat: no-repeat;
     background-size: 100% 300px;
     /* filter: brightness(50%); */
@@ -161,4 +161,8 @@
 .signin a {
     text-decoration: none;
     color: #ffffff;
+}
+*{
+    padding: 0px;
+    margin: 0px;
 }

@@ -1,7 +1,7 @@
 .frame {
     height: 310px;
     width: 100%;
-    background-image: url('./image/iStock_000080173561_Medium-1024x682\ \(1\).jpg');
+    background-image: url('../src/assets/img/iStock_000080173561_Medium-1024x682\ \(1\).jpg');
     background-repeat: no-repeat;
     background-size: 100% 300px;
     filter: brightness(60%);
@@ -21,7 +21,7 @@
 .picture {
     height: 500px;
     width: 100%;
-    background-image: url('./image/istock_kids_stem\ \(1\).jpg');
+    background-image: url('../src/assets/img/istock_kids_stem\ \(1\).jpg');
     background-repeat: no-repeat;
     background-size: 100% 300px;
     /* filter: brightness(50%); */
