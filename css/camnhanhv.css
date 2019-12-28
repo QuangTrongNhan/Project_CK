@@ -165,3 +165,18 @@
     padding: 0px;
     margin: 0px;
 }
+.avatar {
+    width: 180px;
+    height: 180px;
+    border-radius: 70%;
+}
+.pic {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.name {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
