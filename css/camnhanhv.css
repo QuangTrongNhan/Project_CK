@@ -16,7 +16,15 @@
     color: red;   
     text-align: center;
 }
-
+.frame pre {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 59px;
+    color:white;   
+    text-align: center;
+}
 .picture {
     height: 500px;
     width: 1509px;
@@ -179,4 +187,20 @@
     display: flex;
     justify-content: center;
     padding-bottom: 40px;
+}
+.question {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.answer {
+    padding: 50px;
+}
+.cource {
+    display: flex;
+    justify-content: center;
+}
+.member {
+    display: flex;
+    justify-content: center;
 }
