@@ -204,3 +204,17 @@
     display: flex;
     justify-content: center;
 }
+.camket {
+    display: flex;
+    justify-content: center;
+}
+.chuongtrinh {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sieuNhan{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+}
