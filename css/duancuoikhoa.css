@@ -3,8 +3,7 @@
     width: 100%;
     background-image: url('../src/assets/img/iStock_000080173561_Medium-1024x682\ \(1\).jpg');
     background-repeat: no-repeat;
-    background-size: 100% 300px;
-    filter: brightness(60%);
+    background-size: 100% 500px;
     padding:5px;
 }
 
@@ -14,7 +13,7 @@
     font-weight: bold;
     font-size: 50px;
     line-height: 59px;
-    color: red;   
+    color: red	;   
     text-align: center;
 }
 
@@ -35,7 +34,7 @@
     font-size: 50px;
     line-height: 59px;
     text-align: center;
-    color: #FFFFFF;
+    color: white;
 }
 .input {
     background-color: #1978D0;
@@ -165,4 +164,20 @@
 *{
     padding: 0px;
     margin: 0px;
+}
+.miniPicture {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    justify-content: space-around;
+}
+.video1{
+    display: flex;
+    justify-content: center;
+}
+.projec1 {
+    padding: 50px;
+}
+.content {
+    padding: 50px;
 }
