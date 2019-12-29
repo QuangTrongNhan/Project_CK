@@ -129,3 +129,9 @@
 html {
     overflow-x: hidden;
 }
+
+table {
+    width: 200px;
+    height: 30px;
+    border: 10px solid white;
+}
