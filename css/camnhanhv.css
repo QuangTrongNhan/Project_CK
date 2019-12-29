@@ -13,7 +13,7 @@
     font-weight: bold;
     font-size: 50px;
     line-height: 59px;
-    color: red;   
+    color: gray;   
     text-align: center;
 }
 .frame pre {
@@ -27,12 +27,11 @@
 }
 .picture {
     height: 500px;
-    width: 1509px;
+    width: 1600px;
     background-image: url('../src/assets/img/istock_kids_stem\ \(1\).jpg');
     background-repeat: no-repeat;
     background-size: 100% 700px;
     /* filter: brightness(50%); */
-    filter: brightness(70%);
 }
 
 .picture pre {
@@ -150,7 +149,7 @@
 .header a {
     text-decoration: none;
     margin-left: 12px;
-    margin-right: 12px;
+    margin-right: 150px;
     font-size: 25px;
 }
 
@@ -221,3 +220,28 @@
     padding: 50px;
     font-size: 30px;
 }
+.parent:hover .child,
+.parent:focus .child {
+  transform: scale(1.2);
+}
+.formSuccess {
+    background-color: pink;
+    width: 400px;
+    height:400px;
+    box-shadow: 0px 2px 16px rgba(197, 171, 171, 0.16);
+    margin-left: 600px;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+}
+.thanks {
+    background-image: url("/src/assets/img/hinh-nen-laptop-full-hd-mat-nuoc-trong-xanh-em-dem-cuc-dep_034807497.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.formSuccess h1 {
+    padding: 80px;
+}
+
+
+

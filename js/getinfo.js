@@ -25,7 +25,7 @@ pushfrm.addEventListener('click', async function(event) {
 
         try {
             const data = await response.json();
-            window.location.href = "https://www.google.com/"
+            window.location.href = "../html/chuongtrinhhoc2.html"
             return data;
         } catch (err) {
             throw err;
