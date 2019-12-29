@@ -3,7 +3,7 @@
     width: 1509px;
     background-image: url('../src/assets/img/iStock_000080173561_Medium-1024x682\ \(1\).jpg');
     background-repeat: no-repeat;
-    background-size: 100% 500px;
+    background-size: 100% 700px;
     padding:5px;
 }
 
@@ -22,7 +22,7 @@
     width: 1509px;
     background-image: url('../src/assets/img/istock_kids_stem\ \(1\).jpg');
     background-repeat: no-repeat;
-    background-size: 100% 300px;
+    background-size: 100% 700px;
     /* filter: brightness(50%); */
     filter: brightness(70%);
 }
@@ -147,6 +147,7 @@
     text-decoration: none;
     margin-left: 12px;
     margin-right: 12px;
+    font-size:25px;
 }
 
 .signin button {
